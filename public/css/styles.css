@@ -8,11 +8,11 @@
 body {
   padding-top:50px;
   color:#646464;
-  background-color:#efefef;
+  background-color:black;
 }
 
 h1,h2,h3,.highlight,.navbar a,#masthead h4 {
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family:'Times New Roman', Times, serif;
 }
 
 footer {
@@ -27,20 +27,20 @@ footer {
 
 #masthead {
   min-height:199px;
-  background-color:#ff4848;
+  background-color:#303636;
   color:#aaaacc;
 }
 
 #masthead h1 {
   font-size: 55px;
   line-height: 1;
-  color:#fefeff;
+  color:#e5f503;
   margin-top:50px;
 }
 
 #masthead .well {
   margin-top:31px;
-  background-color:#e01037;
+  background-color:#000000;
   border-color:#000022;
   color:#efefff;
   min-height:127px;
@@ -96,7 +96,7 @@ a,a:hover {
 }
 
 .navbar-bright li > a:hover {
-  background-color:rgb(219, 82, 82);
+  background-color:black;
 }
 
 .dropdown-menu {
@@ -113,11 +113,11 @@ a,a:hover {
 }
 
 .navbar-toggle:hover {
-  background-color:#fff;
+  background-color:rgb(255, 255, 255);
 }
 
 .panel {
-  border-color:transparent;
+  border-color:black;
   border-radius:0;
 }
 
